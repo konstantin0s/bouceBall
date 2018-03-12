@@ -1,0 +1,12 @@
+body {
+  background-color: silver;
+}
+
+canvas{
+  position: relative;
+ background-color: white;
+ top: 100px;
+ left:0;
+ right:0;
+ bottom:0;
+}
